@@ -15,9 +15,9 @@ No installation required. Access application at Url "https://jeremyskinner812.gi
 
 To use, input your tasks into the time-block that it needs to be completed. The time-blocks are color-coded. Blocks in the past are grey, current time-block is red, and future time-blocks are green. After typing in your tasks, click the blue save button on the right of your text. When the page is reloaded, the tasks will still be there.
 
-```md
-    ![screenshot](./assets/calendar.png)
-    ```
+
+    ![Screenshot](./assets/calendar.png)
+   
 
 ## Credits
 
